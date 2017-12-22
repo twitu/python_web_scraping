@@ -10,6 +10,6 @@ Watch this excellent [tutorial](https://www.youtube.com/watch?v=vkA1cWN4DEc&list
 
 # Contributing
 1. Fork this repo  
-2. Make a new folder `python_web_scraping/yourname/  
+2. Make a new folder `python_web_scraping/yourname/` 
 3. make a pull request and keep adding commits to it.  
 4. pull requests will be merged after every milestone if they function properly.  
