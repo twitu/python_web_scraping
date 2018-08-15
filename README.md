@@ -14,7 +14,10 @@ Some websites block requests with bad user agents. Check out http://mangafreak.c
 
 # Milestone 2:
 Use Scrapy library to download chapter-wise images from http://mangafreak.com. Use ImagePipelines and tweak settings to find best configurations to download images.
-* [Scrapy documentation](https://doc.scrapy.org/en/latest/)
+* [Scrapy documentation](https://doc.scrapy.org/en/latest/)  
+
+## Milestone 2 extension:
+Enable download speed and time statistics logging. Enable proxy settings. Host on scrapinghub cloud.
 
 # Contributing
 1. Fork this repo  
